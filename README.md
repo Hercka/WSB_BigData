@@ -8,8 +8,8 @@ Projekt zaliczeniowy kierunku Big Data w Wyższej Szkole Bankowe - rok akademick
 
 | Imię i nazwisko            | Numer albumu                                                                | Github profile|
 | ----------------- | ----------------- | ----------------- |
-| Piotr Barczak | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f | dddd |
-| Przemysław Becella | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 | sss |
+| Piotr Barczak | pp..... | dddd |
+| Przemysław Becella | pp..... | sss |
 | Maciej Hercka | pp60611 | https://github.com/Hercka |
 | Tomasz kieliszak | pp60615 | https://github.com/kieliszak |
 
