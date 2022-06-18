@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS `PKB` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
-INSERT INTO `PKB_` (`kraj`, `kod`, `rok`, `PKB`) VALUES
+INSERT INTO `PKB` (`kraj`, `kod`, `rok`, `PKB`) VALUES
 	('Afghanistan', 'AFG', '2002', 746511462920),
 	('Afghanistan', 'AFG', '2003', 812445429229),
 	('Afghanistan', 'AFG', '2004', 823934366126),

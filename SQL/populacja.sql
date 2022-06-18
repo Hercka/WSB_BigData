@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `populacja_` (
+CREATE TABLE IF NOT EXISTS `populacja` (
   `kraj` varchar(50) DEFAULT NULL,
   `kod` varchar(50) DEFAULT NULL,
   `rok` year(4) DEFAULT NULL,
