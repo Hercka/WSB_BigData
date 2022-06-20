@@ -38,7 +38,7 @@ Zagadnienie: zmiana klimatu (temperatury) vs emisja CO2
 
 ## Źródła danych
 
-| Zagadnienie            | Nazwa danych | źródło | URL | rozszerzenie pliku | 
+| Zagadnienie            | Nazwa danych | źródło | URL | typ | 
 | ----------------- | ----------------- | ----------------- | ----------------- | -|
 | zmiany temperatury | wahania temperatury na świecie rok do roku (Temperature change) |FAOSTAT- Food and Agriculture Organization of the United Nations| https://www.fao.org/faostat/en/#data/ET | .csv|
 | emisja CO₂ | skumulowana emisja CO₂ na świecie (Annual CO₂ emissions) | Our World in Data | https://ourworldindata.org/grapher/annual-co2-emissions-per-country | .csv |
