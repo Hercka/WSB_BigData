@@ -3,7 +3,7 @@
 
 
 
-Projekt zaliczeniowy kierunku Big Data w Wyższej Szkole Bankowe - rok akademicki 2021/2022
+Projekt zaliczeniowy kierunku Big Data w Wyższej Szkole Bankowej - rok akademicki 2021/2022
 
 Zagadnienie: zmiana klimatu (temperatury) vs emisja CO2
 ## Grupa projektowa nr 3
